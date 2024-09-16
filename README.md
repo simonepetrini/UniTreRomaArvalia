@@ -1,2 +1,2 @@
 # UniTreRomaArvalia
-Realizzazione di un portale CRM per la gestione delle iscrizioni a UniTre Roma Arvalia
+Il progetto prevede la realizzazione di un portale CRM sviluppato con la libreria TKinter di Python per la gestione delle iscrizioni a UniTre Roma Arvalia
